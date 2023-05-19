@@ -3,3 +3,5 @@ First semi project
 This is a first real attempt at making a repository semi seriously. Sorta excited:) 
 
 Added some stuff. Want to see how this updated with a commit. Wish me luck.
+
+Stole these recipes. Don't tell my Grandma shhhhhhhhhh
